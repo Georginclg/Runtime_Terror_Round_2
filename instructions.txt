@@ -19,16 +19,16 @@ General Instructions:
 ********************************************************************************
 Full Name:
 Class(First Year/ Second Year): 
-Roll No: 
+Roll No: 20CS901001
 
 what is the git command to clone ?
-Ans : 
+Ans :  git clone username:/path/to/repository
 
 what is the git command to commit ?
-Ans :
+Ans : git commit
 
 What is the git command to push ?
-Ans : 
+Ans : git push
 
 ********************************************************************************
 
